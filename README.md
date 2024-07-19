@@ -3,6 +3,8 @@
 ## Description
 ReplicaBalancer is a custom Kubernetes scaling engine designed to enhance system reliability and performance. It dynamically adjusts pod replicas based on real-time system metrics, optimizing resource allocation and system stability. This engine is equipped to handle various operational challenges, including pod failures, memory leaks, and response time variability, making it ideal for cloud-native applications that require robust and adaptive scaling strategies.
 
+You can find the paper with details of the proposed framework here: https://github.com/nazanin97/ReplicaBalancer/blob/0122f8ca67b15fe497d3329dd1492dabe9ce9577/Cloud_Native_Applications_with_Diverse_Microservices.pdf
+
 ## Prerequisites
 To use ReplicaBalancer, ensure your environment meets the following requirements:
 - A Kubernetes cluster
